@@ -27,6 +27,8 @@ public class FileOperations {
     }
 }
 /*
+    Methods of File class
+
     boolean mkdir()
     boolean delete()
     boolean renameTo(File)
